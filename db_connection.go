@@ -3,9 +3,9 @@ package gormx
 import (
 	"fmt"
 
-	"github.com/abmpio/abmp/app"
-	"github.com/abmpio/abmp/app/web"
 	"github.com/abmpio/abmp/pkg/log"
+	"github.com/abmpio/app"
+	"github.com/abmpio/app/web"
 
 	"github.com/abmpio/configurationx"
 	"github.com/abmpio/configurationx/options/db"
