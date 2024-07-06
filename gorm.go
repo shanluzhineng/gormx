@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/abmpio/configurationx/options/db"
+	"github.com/shanluzhineng/configurationx/options/db"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
 )

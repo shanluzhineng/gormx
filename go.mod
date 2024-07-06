@@ -1,11 +1,11 @@
-module github.com/abmpio/gormx
+module github.com/shanluzhineng/gormx
 
 go 1.19
 
 require (
-	github.com/abmpio/abmp v0.0.0-20230819060034-aa8d5ad8e394
-	github.com/abmpio/app v0.0.0-20231107113850-3cb7968b906e
-	github.com/abmpio/configurationx v0.0.0-20230713072959-39c660b4f462
+	github.com/shanluzhineng/abmp v0.0.1
+	github.com/shanluzhineng/app v0.0.2
+	github.com/shanluzhineng/configurationx v0.0.1
 	gorm.io/driver/mysql v1.5.1
 	gorm.io/gorm v1.25.3
 )

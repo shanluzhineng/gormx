@@ -3,7 +3,7 @@ package gormx
 import (
 	"fmt"
 
-	"github.com/abmpio/abmp/pkg/log"
+	"github.com/shanluzhineng/abmp/pkg/log"
 
 	"gorm.io/gorm/logger"
 )

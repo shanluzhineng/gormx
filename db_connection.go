@@ -3,12 +3,12 @@ package gormx
 import (
 	"fmt"
 
-	"github.com/abmpio/abmp/pkg/log"
-	"github.com/abmpio/app"
-	"github.com/abmpio/app/web"
+	"github.com/shanluzhineng/abmp/pkg/log"
+	"github.com/shanluzhineng/app"
+	"github.com/shanluzhineng/app/web"
 
-	"github.com/abmpio/configurationx"
-	"github.com/abmpio/configurationx/options/db"
+	"github.com/shanluzhineng/configurationx"
+	"github.com/shanluzhineng/configurationx/options/db"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
